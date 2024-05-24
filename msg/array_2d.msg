@@ -1,3 +1,3 @@
 float64[] array
-int width
-int height
+int32 width
+int32 height
