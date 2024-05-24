@@ -1,1 +1,1 @@
-float64[6][7] repulsiveForces
+float64 repulsiveForces [6][7]
