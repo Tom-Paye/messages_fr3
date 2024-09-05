@@ -7,6 +7,7 @@ find_package(std_msgs REQUIRED)
 find_package(builtin_interfaces REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Array2d.msg"
+  "msg/IrregularDistArray.msg"
   "srv/SetPose.srv"
   "srv/SetParam.srv"
   "srv/SetMode.srv"
